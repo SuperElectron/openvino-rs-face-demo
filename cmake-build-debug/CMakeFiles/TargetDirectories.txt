@@ -1,0 +1,5 @@
+/home/mat/Downloads/rs-face/cmake-build-debug/CMakeFiles/RADApplication.dir
+/home/mat/Downloads/rs-face/cmake-build-debug/CMakeFiles/fresh.dir
+/home/mat/Downloads/rs-face/cmake-build-debug/CMakeFiles/run.dir
+/home/mat/Downloads/rs-face/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/mat/Downloads/rs-face/cmake-build-debug/CMakeFiles/rebuild_cache.dir
